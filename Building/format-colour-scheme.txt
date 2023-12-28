@@ -1,0 +1,22 @@
+S1-Green
+S1 Rooms-Light Green
+
+S2-Blue
+s2 Rooms-Light Blue
+
+s3-Purple
+S3 Rooms-Light Purple
+
+S4-Red
+S4 Rooms-Light Red
+
+CLASSIFIED SECTOR-Black
+Classified Sector Rooms-Grey
+
+CI Vents/Caves White
+
+CDC-Orange
+
+SkyLights-Pink
+
+SCP Rooms-Yellow
